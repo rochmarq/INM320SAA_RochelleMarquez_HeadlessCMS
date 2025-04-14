@@ -1,0 +1,14 @@
+{
+  "name": "inm320saa_rochellemarquez_headlesscms",
+  "version": "1.0.0",
+  "description": "a6",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "roch marq",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
