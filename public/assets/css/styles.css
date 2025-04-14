@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&display=swap');
+/* text styling */
+body {
+    font-family: 'Mulish', sans-serif;
+    background-color: #f7f8fa;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 19px;
+}
+
+.subtext {
+    font-size: 12px;
+}
+
+/* colours */
+.grey {
+    color: #A4A6B3;
+}
+
+.l-grey {
+    color: #9FA2B4;
+}
+
+/* general styling */
+#divider {
+    height: 30px;
+    width: 2px;
+    margin: 0px 20px 0px;
+}
+
+#graph-blue {
+    opacity: 1;
+    transform: translateY(-7px);
+    width: 24px;
+    border: 1px solid #3751FF;
+}
+
+#graph-grey {
+    opacity: 1;
+    transform: translateY(-7px);
+    width: 24px;
+    border: 1px solid #DFE0EB;
+}
+
+hr {
+    color: #A4A6B3;
+}
+
+#profile-name {
+    font-weight: bold;
+}
+
+/* task badge styling */
+.grey-tag {
+    background-color: #F0F1F7;
+    color: #9FA2B4;
+    border: none;
+    border-radius: 10px;
+}
+
+.urgent-tag {
+    background-color: #FEC400;
+    color: #FFF;
+    border: none;
+    border-radius: 10px;
+}
+
+.new-tag {
+    background-color: #29CC97;
+    color: #FFF;
+    border: none;
+    border-radius: 10px;
+}
