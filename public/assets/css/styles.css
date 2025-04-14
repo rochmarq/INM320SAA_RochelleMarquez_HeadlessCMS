@@ -82,3 +82,10 @@ hr {
     border: none;
     border-radius: 10px;
 }
+
+.done-tag {
+    background-color: #5add65;
+    color: rgb(0, 97, 0);
+    border: none;
+    border-radius: 10px;
+}
